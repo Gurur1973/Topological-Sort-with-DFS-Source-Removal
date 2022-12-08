@@ -1,10 +1,10 @@
-# @Topological Sort with DFS & SourceRemoval
+# @ Topological Sort with DFS & SourceRemoval
 ## Included :
-### > Linked list
-### > Matrix
-### > Topological Sort
-### > DFS
-### > Source Removal
+### > _Linked list_
+### > _Matrix_
+### > _Topological Sort_
+### > _DFS_
+### > _Source Removal_
 <br />
 The algorithms were our assignment at Yasar University
 <br />
